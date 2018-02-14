@@ -1,0 +1,4 @@
+#Fri Feb 09 11:26:39 GMT 2018
+base.0=C\:\\Users\\admin\\Documents\\GameExports\\MMD_V4\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\admin\\Documents\\GameExports\\MMD_V4\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
